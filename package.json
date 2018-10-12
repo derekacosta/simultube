@@ -1,0 +1,24 @@
+{
+  "name": "flowers-react",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.6.1",
+    "redux-promise": "^0.5.3"
+  },
+  "dependencies": {
+    "pusher-js": "^3.2.1",
+    "react": "^15.4.1",
+    "react-balloon": "^0.2.5",
+    "react-dom": "^15.4.1",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.8.1",
+    "redux": "^3.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
